@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500&subset=latin-ext');
+@import url('../lib/font-awesome-4.7.0/css/font-awesome.min.css');
 
 body {
     padding-top: 20px;
@@ -59,4 +60,9 @@ body {
 
   .lead {
     font-weight: 100;
+  }
+
+  /* Home page elements */
+  .home-media-image {
+    width: 25%;
   }
